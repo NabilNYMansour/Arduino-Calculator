@@ -1,0 +1,9 @@
+- Button to pin 12: Clear button.
+
+- Button to pin 11: Place number button.
+
+- Button to pin 10: Place operation button.
+
+- Button to pin 9: equals button.
+
+- Button to pin 8: delete last placement button.
